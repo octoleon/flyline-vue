@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="19.118" viewBox="0 0 120 19.118">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#00aeef}.prefix__cls-2{fill:#0e3178}
+        </style>
+    </defs>
+    <g id="prefix__FlylineSVG_Logotype" transform="translate(-215 -454.595)">
+        <path id="prefix__Rectangle_719" d="M0 0H6.307V19.115H0z" class="prefix__cls-1" data-name="Rectangle 719" transform="translate(287.096 454.598)"/>
+        <path id="prefix__Path_1435" d="M612.181 463.071l-.819-1.065-6.881-7.4H599.1v19.115h6.2v-9.093l.819 1.065 7.428 8.028h4.779v-19.115h-6.144z" class="prefix__cls-1" data-name="Path 1435" transform="translate(-303.238 -.009)"/>
+        <path id="prefix__Path_1436" d="M487.2 468.189v5.544h-15.614v-19.112h6.308v13.568z" class="prefix__cls-1" data-name="Path 1436" transform="translate(-202.568 -.021)"/>
+        <path id="prefix__Path_1437" d="M370.75 460.559l-.628 1.42-.628-1.42-3.031-5.953h-6.772l7.1 13.927v5.188h6.2v-5.188l7.1-13.927h-6.308z" class="prefix__cls-2" data-name="Path 1437" transform="translate(-114.23 -.009)"/>
+        <path id="prefix__Path_1438" d="M215 456.684a3.674 3.674 0 0 0 3.852 3.465h6.5v1.611h-6.679v1.44a3.567 3.567 0 0 0 3.74 3.364h2.939v3.724a3.637 3.637 0 0 0 3.814 3.43h3.29v-19.113H215z" class="prefix__cls-2" data-name="Path 1438" transform="translate(0 -.008)"/>
+        <path id="prefix__Path_1439" d="M321.837 468.178h-5.847v-10.141a3.43 3.43 0 0 0-3.43-3.431h-2.96v19.115h15.7v-2.079a3.465 3.465 0 0 0-3.463-3.464z" class="prefix__cls-2" data-name="Path 1439" transform="translate(-74.685 -.009)"/>
+        <path id="prefix__Path_1440" d="M702.1 454.595v19.117h17.45v-5.546h-11.339v-1.607h7.673v-4.826h-7.673v-1.592h11.339v-5.546z" class="prefix__cls-1" data-name="Path 1440" transform="translate(-384.55)"/>
+    </g>
+</svg>

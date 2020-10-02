@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.117" height="15.419" viewBox="0 0 18.117 15.419">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#00aeef}
+        </style>
+    </defs>
+    <g id="prefix__wallet" transform="translate(0 -35.84)">
+        <g id="prefix__Group_372" data-name="Group 372" transform="translate(0 35.84)">
+            <g id="prefix__Group_371" data-name="Group 371">
+                <path id="prefix__Path_1428" d="M16.865 42.393h-.1v-.964a2.223 2.223 0 0 0-1.927-2.2v-1.172a2.229 2.229 0 0 0-2.217-2.217H2.351A2.353 2.353 0 0 0 0 38.153v10.89a2.229 2.229 0 0 0 2.217 2.217h12.335a2.229 2.229 0 0 0 2.217-2.217v-1.06h.1a1.25 1.25 0 0 0 1.253-1.253v-3.084a1.25 1.25 0 0 0-1.257-1.253zm-15.516-4.2a1.008 1.008 0 0 1 1-1h10.256a.864.864 0 0 1 .867.867v1.156H2.351a1.025 1.025 0 0 1-1.002-1.025zm15.419 8.442h-3.18a1.446 1.446 0 1 1 0-2.891h3.18z" class="prefix__cls-1" data-name="Path 1428" transform="translate(0 -35.84)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_374" data-name="Group 374" transform="translate(13.01 44.224)">
+            <g id="prefix__Group_373" data-name="Group 373">
+                <circle id="prefix__Ellipse_291" cx=".964" cy=".964" r=".964" class="prefix__cls-1" data-name="Ellipse 291"/>
+            </g>
+        </g>
+    </g>
+</svg>

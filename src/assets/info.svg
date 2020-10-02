@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#fe8930;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="prefix__info_1_" data-name="info (1)" transform="translate(-.679 -.679)">
+        <circle id="prefix__Ellipse_263" cx="7" cy="7" r="7" class="prefix__cls-1" data-name="Ellipse 263" transform="translate(1.679 1.679)"/>
+        <path id="prefix__Line_12" d="M0 3L0 0" class="prefix__cls-1" data-name="Line 12" transform="translate(8.679 8.679)"/>
+        <path id="prefix__Line_13" d="M0 0L0 0" class="prefix__cls-1" data-name="Line 13" transform="translate(8.679 5.679)"/>
+    </g>
+</svg>

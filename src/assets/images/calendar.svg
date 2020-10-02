@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="16" viewBox="0 0 15 16">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#00a3da;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="prefix__calendar_3_" data-name="calendar (3)" transform="translate(-2 -.558)">
+        <rect id="prefix__Rectangle_615" width="13" height="12" class="prefix__cls-1" data-name="Rectangle 615" rx="2" transform="translate(3 3.558)"/>
+        <path id="prefix__Line_2" d="M0 0L0 4" class="prefix__cls-1" data-name="Line 2" transform="translate(12 1.558)"/>
+        <path id="prefix__Line_3" d="M0 0L0 4" class="prefix__cls-1" data-name="Line 3" transform="translate(7 1.558)"/>
+        <path id="prefix__Line_4" d="M0 0L13 0" class="prefix__cls-1" data-name="Line 4" transform="translate(3 8.558)"/>
+    </g>
+</svg>

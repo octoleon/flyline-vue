@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.209" height="11.793" viewBox="0 0 20.209 11.793">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#00aeef}
+        </style>
+    </defs>
+    <g id="prefix__ticket" transform="translate(0 -106.603)">
+        <g id="prefix__Group_368" data-name="Group 368" transform="translate(0 106.603)">
+            <g id="prefix__Group_367" data-name="Group 367">
+                <path id="prefix__Path_1427" d="M19.617 110.513h.592V106.6H0v3.91h.592c.665 0 1.227.91 1.227 1.987s-.562 1.987-1.227 1.987H0v3.91h20.209v-3.91h-.592c-.665 0-1.227-.91-1.227-1.987s.562-1.984 1.227-1.984zm-3.137 5.851H3.729v-7.73H16.48v7.73z" class="prefix__cls-1" data-name="Path 1427" transform="translate(0 -106.603)"/>
+            </g>
+        </g>
+        <g id="prefix__Group_370" data-name="Group 370" transform="translate(4.913 109.819)">
+            <g id="prefix__Group_369" data-name="Group 369">
+                <path id="prefix__Rectangle_712" d="M0 0H10.383V5.361H0z" class="prefix__cls-1" data-name="Rectangle 712"/>
+            </g>
+        </g>
+    </g>
+</svg>

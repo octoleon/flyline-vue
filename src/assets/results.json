@@ -1,0 +1,208 @@
+[
+    {
+        "id": "1b",
+        "route": [
+            {
+                "fare_basis": "K03PXS5",
+                "fare_category": "M",
+                "fare_classes": "K",
+                "fare_family": "",
+                "last_seen": "2020-03-12T14:35:08.000Z",
+                "refresh_timestamp": "2020-03-12T14:35:08.000Z",
+                "return": 0,
+                "bags_recheck_required": false,
+                "guarantee": false,
+                "id": "1b36244647a5000080757865_0",
+                "combination_id": "1b36244647a5000080757865",
+                "cityTo": "Las Vegas",
+                "cityFrom": "Dallas",
+                "cityCodeFrom": "DFW",
+                "cityCodeTo": "LAS",
+                "flyTo": "LAS",
+                "flyFrom": "DFW",
+                "airline": "F9",
+                "operating_carrier": "",
+                "equipment": null,
+                "flight_no": 2135,
+                "vehicle_type": "aircraft",
+                "operating_flight_no": "",
+                "local_arrival": "2020-03-20T22:26:00.000Z",
+                "utc_arrival": "2020-03-21T05:26:00.000Z",
+                "local_departure": "2020-03-20T21:20:00.000Z",
+                "utc_departure": "2020-03-21T02:20:00.000Z",
+                "duration": 11160
+            },
+            {
+                "fare_basis": "K03PXS5",
+                "fare_category": "M",
+                "fare_classes": "K",
+                "fare_family": "",
+                "last_seen": "2020-03-12T15:46:42.000Z",
+                "refresh_timestamp": "2020-03-12T15:46:42.000Z",
+                "return": 1,
+                "bags_recheck_required": false,
+                "guarantee": false,
+                "id": "2446071347a70000324af7b5_0",
+                "combination_id": "2446071347a70000324af7b5",
+                "cityTo": "Denver",
+                "cityFrom": "Las Vegas",
+                "cityCodeFrom": "LAS",
+                "cityCodeTo": "DEN",
+                "flyTo": "DEN",
+                "flyFrom": "LAS",
+                "airline": "F9",
+                "operating_carrier": "",
+                "equipment": null,
+                "flight_no": 774,
+                "vehicle_type": "aircraft",
+                "operating_flight_no": "",
+                "local_arrival": "2020-03-22T23:15:00.000Z",
+                "utc_arrival": "2020-03-23T05:15:00.000Z",
+                "local_departure": "2020-03-22T20:16:00.000Z",
+                "utc_departure": "2020-03-23T03:16:00.000Z",
+                "layover": 30960,
+                "duration": 7140
+            },
+            {
+                "fare_basis": "GAA7TCBN",
+                "fare_category": "M",
+                "fare_classes": "G",
+                "fare_family": "",
+                "last_seen": "2020-03-12T16:02:48.000Z",
+                "refresh_timestamp": "2020-03-12T16:02:48.000Z",
+                "return": 1,
+                "bags_recheck_required": true,
+                "guarantee": true,
+                "id": "07131b3647a80000006a929b_0",
+                "combination_id": "07131b3647a80000006a929b",
+                "cityTo": "Dallas",
+                "cityFrom": "Denver",
+                "cityCodeFrom": "DEN",
+                "cityCodeTo": "DFW",
+                "flyTo": "DFW",
+                "flyFrom": "DEN",
+                "airline": "UA",
+                "operating_carrier": "UA",
+                "equipment": "319",
+                "flight_no": 1424,
+                "vehicle_type": "aircraft",
+                "operating_flight_no": "1424",
+                "local_arrival": "2020-03-23T10:50:00.000Z",
+                "utc_arrival": "2020-03-23T15:50:00.000Z",
+                "local_departure": "2020-03-23T07:51:00.000Z",
+                "utc_departure": "2020-03-23T13:51:00.000Z",
+                "duration": 7140
+            }
+        ],
+        "nightsInDest": 2,
+        "duration": {
+            "departure": 11160,
+            "return": 45240,
+            "total": 56400
+        },
+        "flyFrom": "DFW",
+        "cityFrom": "Dallas",
+        "cityCodeFrom": "DFW",
+        "countryFrom": {
+            "code": "US",
+            "name": "United States"
+        },
+        "flyTo": "LAS",
+        "cityTo": "Las Vegas",
+        "cityCodeTo": "LAS",
+        "countryTo": {
+            "code": "US",
+            "name": "United States"
+        },
+        "distance": 1696.67,
+        "routes": [
+            [
+                "DFW",
+                "LAS"
+            ],
+            [
+                "LAS",
+                "DFW"
+            ]
+        ],
+        "airlines": [
+            "F9",
+            "UA"
+        ],
+        "pnr_count": 3,
+        "virtual_interlining": true,
+        "has_airport_change": false,
+        "technical_stops": 0,
+        "price": 84,
+        "bags_price": {
+            "1": 113.54,
+            "2": 252.62
+        },
+        "baglimit": {
+        "hold_width": 28,
+        "hold_height": 52,
+        "hold_length": 78,
+        "hold_dimensions_sum": 158,
+        "hold_weight": 22
+        },
+        "availability": {
+            "seats": 7
+        },
+        "facilitated_booking_available": true,
+        "transfers": [],
+        "type_flights": [
+        "deprecated"
+        ],
+        "conversion": {
+            "USD": 84,
+            "EUR": 76
+        },
+        "fare": {
+            "adults": 84,
+            "children": 84,
+            "infants": 84
+        },
+        "price_dropdown": {
+            "base_fare": 84,
+            "fees": 0
+        },
+        "quality": 225.33296,
+        "booking_token": "",
+        "local_arrival": "2020-03-20T22:26:00.000Z",
+        "utc_arrival": "2020-03-21T05:26:00.000Z",
+        "local_departure": "2020-03-20T21:20:00.000Z",
+        "utc_departure": "2020-03-21T02:20:00.000Z",
+        "roundtrip": true,
+        "return_departure": "2020-03-22T20:16:00.000Z",
+        "return_arrival": "2020-03-23T10:50:00.000Z",
+        "return_departure_int": 1216,
+        "return_arrival_int": 650,
+        "local_departure_int": 1280,
+        "local_arrival_int": 1346,
+        "parent": {
+        "search_id": "88c5afd4-0f5f-4da3-8912-c101c2a2b197",
+        "connections": [],
+        "time": 1,
+        "currency": "USD",
+        "currency_rate": 0.8971458203,
+        "fx_rate": 1.114646,
+        "refresh": [],
+        "del": null,
+        "ref_tasks": [],
+        "search_params": {
+            "flyFrom_type": "city",
+            "to_type": "city",
+            "seats": {
+            "passengers": 1,
+            "adults": 1,
+            "children": 0,
+            "infants": 0
+            }
+        },
+        "all_stopover_airports": [],
+        "all_airlines": []
+        },
+        "provider": "flyline",
+        "srIndex": "kiwi-0"
+    }
+]

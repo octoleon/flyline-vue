@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13.6" height="13.6" viewBox="0 0 13.6 13.6">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:none;stroke:#bbc4dc;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.6px}
+        </style>
+    </defs>
+    <g id="prefix__clock_2_" data-name="clock (2)" transform="translate(-.867 -.867)">
+        <circle id="prefix__Ellipse_260" cx="6" cy="6" r="6" class="prefix__cls-1" data-name="Ellipse 260" transform="translate(1.667 1.667)"/>
+        <path id="prefix__Path_1334" d="M12 6v3.4l2.267 1.133" class="prefix__cls-1" data-name="Path 1334" transform="translate(-4.333 -1.733)"/>
+    </g>
+</svg>

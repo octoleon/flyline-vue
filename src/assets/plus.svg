@@ -1,0 +1,14 @@
+<svg id="plus" xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #353535;
+      }
+    </style>
+  </defs>
+  <g id="Слой_2" data-name="Слой 2">
+    <g id="Icons">
+      <path id="Plus-2" data-name="Plus" class="cls-1" d="M7,0a7,7,0,1,0,7,7A7,7,0,0,0,7,0ZM9.917,7.583H7.583V9.917a.583.583,0,1,1-1.167,0V7.583H4.083a.583.583,0,0,1,0-1.167H6.417V4.083a.583.583,0,0,1,1.167,0V6.417H9.917a.583.583,0,1,1,0,1.167Z"/>
+    </g>
+  </g>
+</svg>

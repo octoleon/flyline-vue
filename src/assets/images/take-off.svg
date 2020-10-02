@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="12" viewBox="0 0 16 12">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#00aeef}
+        </style>
+    </defs>
+    <g id="prefix__take-off_1_" data-name="take-off (1)" transform="translate(0 -64)">
+        <g id="prefix__Group_316" data-name="Group 316" transform="translate(0 64)">
+            <g id="prefix__Group_315" data-name="Group 315">
+                <path id="prefix__Path_1283" d="M14.532 64a1.516 1.516 0 0 0-.49.08L3.365 67.7a.7.7 0 0 1-.592-.071l-1.584-1.012a.342.342 0 0 0-.421.04L.1 67.3a.312.312 0 0 0-.031.419l2 2.563a.341.341 0 0 0 .356.117l5.413-1.445-1.153 3.602a.311.311 0 0 0 .085.323.343.343 0 0 0 .339.075l2-.641a.332.332 0 0 0 .184-.145l2.6-4.379L15 66.8a1.43 1.43 0 0 0 1-1.385A1.445 1.445 0 0 0 14.532 64z" class="prefix__cls-1" data-name="Path 1283" transform="translate(-.004 -64)"/>
+                <path id="prefix__Path_1284" d="M12.5 405.333H.379a.379.379 0 0 0-.379.379v.757a.378.378 0 0 0 .379.379H12.5a.378.378 0 0 0 .379-.379v-.757a.379.379 0 0 0-.379-.379z" class="prefix__cls-1" data-name="Path 1284" transform="translate(0 -394.848)"/>
+            </g>
+        </g>
+    </g>
+</svg>

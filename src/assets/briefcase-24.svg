@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__briefcase-24" width="12" height="12" viewBox="0 0 12 12">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#818181}
+        </style>
+    </defs>
+    <path id="prefix__Path_4" d="M12 6.364V3.182c0-.382-.3-.636-.75-.636H9V.636C9 .255 8.7 0 8.25 0h-4.5C3.3 0 3 .255 3 .636v1.909H.75c-.45 0-.75.255-.75.637v3.182C0 6.745.3 7 .75 7h10.5c.45 0 .75-.255.75-.636zM4.5 1.273h3v1.272h-3z" class="prefix__cls-1" data-name="Path 4"/>
+    <path id="prefix__Path_5" d="M1 13v2c0 .6.286 1 .714 1h8.571c.429 0 .714-.4.714-1v-2z" class="prefix__cls-1" data-name="Path 5" transform="translate(0 -4)"/>
+</svg>

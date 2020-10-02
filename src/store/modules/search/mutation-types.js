@@ -1,0 +1,36 @@
+export const REMOVE_SCRAPER = "REMOVE_SCRAPER";
+export const SET_SCRAPER_TASK_ID = "SET_SCRAPER_TASK_ID";
+export const SET_SCRAPER_RESULT = "SET_SCRAPER_RESULT";
+export const RESET_SCRAPERS = "RESET_SCRAPERS";
+export const SET_DEAL_ALERTS_SUBSCRIBE_SUCCESS =
+  "SET_DEAL_ALERTS_SUBSCRIBE_SUCCESS";
+export const SET_DEAL_ALERTS_SUBSCRIBE_FAILURE =
+  "SET_DEAL_ALERTS_SUBSCRIBE_FAILURE";
+export const SET_EMAIL = "SET_EMAIL";
+export const SET_TIME_FILTERS = "SET_TIME_FILTERS";
+export const RESET_TIME_FILTERS = "RESET_TIME_FILTERS";
+export const SET_SINGLE_CARRIER = "SET_SINGLE_CARRIER";
+export const TOGGLE_SINGLE_CARRIER = "TOGGLE_SINGLE_CARRIER";
+export const SET_QUICK_FILTERS_DATA = "setQuickFiltersData";
+export const SET_SEARCH_RESULTS = "setSearchResults";
+export const UPDATE_PLACE_FROM = "updatePlaceFrom";
+export const UPDATE_PLACE_TO = "updatePlaceTo";
+export const CLEAR_FILTERS = "clearFilters";
+export const SET_MAX_STOPS = "setMaxStops";
+export const SET_SEAT_TYPE = "setSeatType";
+export const SET_PRICE_RANGE = "setPriceRange";
+export const toggleAirline = "toggleAirline";
+export const SET_DESTINATION_TYPE = "setDestinationType";
+export const SET_SEARCH_TYPE = "setSearchType";
+export const INCREASE_LIMIT = "increaseLimit";
+export const TOGGLE_SORT = "toggleSort";
+export const SET_DATES = "setDates";
+export const UPDATE_PASSENGERS = "updatePassengers";
+export const SET_SEARCH_PROGRESS = "setSearchProgress";
+export const SET_SEARCH_RESULT_INDEX = "setSearchResultIndex";
+export const SET_AIRLINES = "setAirlines";
+export const SET_PLANS = "setPlans";
+export const RESET_AIRLINES_FILTER = "resetAirlinesFilter";
+export const TOGGLE_AIRLINES_FILTER = "toggleAirlinesFilter";
+export const SET_AUTH_ERROR = "setAuthError";
+export const SET_SEARCH_FORM = "setForm";

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10.667" height="16" viewBox="0 0 10.667 16">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#828282}
+        </style>
+    </defs>
+    <g id="prefix__Shopping-bag" transform="translate(-4)">
+        <path id="prefix__Path_22" d="M4 22.5c0 .8.467 1.5 1 1.5h8.667c.533 0 1-.7 1-1.5V20H4z" class="prefix__cls-1" data-name="Path 22" transform="translate(0 -8)"/>
+        <path id="prefix__Path_23" d="M14.333 1.737H12v-.29A1.553 1.553 0 0 0 10.333 0h-2a1.553 1.553 0 0 0-1.666 1.447v.289H4.333a.3.3 0 0 0-.333.29V11h10.667V2.026a.3.3 0 0 0-.334-.289zm-3 2.605a.337.337 0 0 1-.667 0V1.737H8v2.605a.337.337 0 0 1-.667 0V1.447a.965.965 0 0 1 1-.868h2a.965.965 0 0 1 1 .868z" class="prefix__cls-1" data-name="Path 23"/>
+    </g>
+</svg>

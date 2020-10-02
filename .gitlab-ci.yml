@@ -1,0 +1,61 @@
+image: registry.gitlab.com/zburau/flyline-frontend
+
+cache:
+  key: ${CI_COMMIT_REF_SLUG}
+  paths:
+    - node_modules/
+    - dist/
+
+
+build-staging:
+  stage: build
+  variables:
+    VUE_APP_CONSTRUCTION: "0"
+  rules:
+    - if: '$CI_COMMIT_REF_NAME == "develop"'
+      when: always
+  script:
+    - yarn install
+    - yarn build
+
+build-production:
+  stage: build
+  variables:
+    VUE_APP_CONSTRUCTION: "0"
+  rules:
+    - if: '$CI_COMMIT_REF_NAME == "master"'
+      when: always
+  script:
+    - yarn install
+    - yarn build
+
+deploy-staging:
+  stage: deploy
+  variables:
+    VUE_APP_S3D_BUCKET: "flyline"
+    VUE_APP_API_ENDPOINT: "https://api.staging.flyline.io"
+    VUE_APP_CLOUDFRONT_ID: "E1HPDCQRXC0TPZ"
+  script:
+    - yarn deploy
+  rules:
+    - if: '$CI_COMMIT_REF_NAME == "develop"'
+      when: always
+  environment:
+    name: staging
+    url: https://staging.flyline.io
+
+
+deploy-production:
+  stage: deploy
+  variables:
+    VUE_APP_S3D_BUCKET: "flyline-production"
+    VUE_APP_API_ENDPOINT: "https://api.flyline.io"
+    VUE_APP_CLOUDFRONT_ID: "EU10T7WC2XOQG"
+  script:
+    - yarn deploy
+  rules:
+    - if: '$CI_COMMIT_REF_NAME == "master"'
+      when: manual
+  environment:
+    name: production
+    url: https://flyline.io

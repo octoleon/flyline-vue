@@ -1,0 +1,108 @@
+.trip-container {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.trip-content {
+  padding: 30px 40px;
+  background-color: #f8f8fc;
+  border-radius: 20px;
+}
+.trip .grid-x.blogs {
+  margin: -15px;
+}
+.trip .grid-x.blogs .cell {
+  padding: 15px;
+}
+
+.trip-card {
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.trip-card__header {}
+
+.trip-card__body {
+  padding: 20px 30px;
+  background-color: #ffffff;
+}
+
+.trip-card .section {
+  display: flex;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+.trip-card.trip-card--past .location__cities__city {
+  font-size: 16px;
+}
+
+.trip-card .company {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+.trip-card .company__logo {
+  padding: 10px;
+  background-color: #f9f9fd;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.company__title {
+  font-size: 12px;
+  font-weight: 500;
+}
+.company__text {
+  font-size: 12px;
+  color: #a2a2a2;
+}
+
+.trip-card__information {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: -5px;
+}
+
+.trip-card__information > *{
+  margin: 5px;
+}
+
+.trip-card.trip-card--past .trip-price {
+  font-size: 18px;
+  padding-left: 10px;
+}
+.trip-card.trip-card--past .trip-price:before {
+  font-size: 14px;
+}
+
+
+@media screen and (min-width: map-get($breakpoints, medium)) {
+  .trip-container {
+    max-width: 585px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media screen and (min-width: map-get($breakpoints, large)) {
+  .trip-container {
+    max-width: 900px;
+  }
+  .trip-content {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+}
+
+@media screen and (min-width: map-get($breakpoints, xlarge)) {
+  .trip-container {
+    max-width: 1100px;
+  }
+}
+
+@media screen and (min-width: map-get($breakpoints, xxlarge)) {
+  .trip-container {
+    max-width: 1140px;
+  }
+}

@@ -1,0 +1,177 @@
+
+
+.register-container {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.register-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  margin-bottom: 32px;
+  width: 140px;
+}
+
+.register__form {
+  max-width: 580px;
+  width: 100%;
+  border-radius: 13.5px;
+  box-shadow: 0 0 20px 0 rgba(43, 57, 94, 0.06);
+  border: solid 0.5px #edeef6;
+  background-color: #ffffff;
+  padding: 15px;
+}
+
+.register__form__title {
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  color: #3a3f5c;
+  margin-bottom: 24px;
+}
+
+.register__form__tab {
+  display: flex;
+  margin: 0;
+  list-style-type: none;
+  border-bottom: solid 2px #edeef6;
+}
+
+.register__form__tab__item {
+  padding-bottom: 10px;
+  position: relative;
+  cursor: pointer;
+  color: #bbc4dc;
+  display: flex;
+  align-items: center;
+}
+.register__form__tab__item:last-child {
+  margin-right: 0;
+}
+
+.register__form__tab__item.active {
+  color: #3a3f5c;
+}
+.register__form__tab__item.active:after {
+  content: '';
+  position: absolute;
+  bottom: -1.5px;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  background-color: #00aeef;
+}
+
+.register__form__tab__item img {
+  display: none;
+  padding-right: 10px;
+}
+
+.register__form__body {
+  padding-top: 25px;
+}
+
+.register__form__body .grid-x {
+  margin: 0 -10px;
+}
+
+.register__form__body .grid-x .cell {
+  padding: 0 10px;
+}
+
+.register__form__body label {
+  padding-left: 15px;
+  color: #3a3f5c;
+}
+.register__form__body input {
+  border-radius: 18px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.register__form__body select {
+  border-radius: 18px;
+  padding-left: 15px;
+  padding-right: 25px;
+}
+
+.register__form__body .continue {
+  margin-top: 24px;
+  width: 100%;
+  border-radius: 24px;
+  outline: none;
+}
+
+.register__form__body .alarm {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  margin-bottom: 24px;
+  color: #bbc4dc;
+  img {
+    padding-right: 7px;
+  }
+}
+
+.register__form__footer {
+  margin-top: 24px;
+  text-align: center;
+  color: #bbc4dc;
+  font-size: 12px;
+}
+
+@media screen and (min-width: map-get($breakpoints, medium)) {
+  .register-container {
+    max-width: 585px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .register__form__tab__item img {
+    display: block;
+  }
+  .register__form__tab__item {
+    margin-right: 32px;
+  }
+  .register__form {
+    padding: 32px 24px;
+  }
+  .logo {
+    width: 200px;
+  }
+  .register {
+    background-image: url('~@/assets/register_step_one.png');
+    padding-top: 120px;
+    padding-bottom: 120px;
+  }
+  .register-container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+@media screen and (min-width: map-get($breakpoints, large)) {
+  .register-container {
+    max-width: 900px;
+  }
+  .register-content {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+}
+
+@media screen and (min-width: map-get($breakpoints, xlarge)) {
+  .register-container {
+    max-width: 1100px;
+  }
+}
+
+@media screen and (min-width: map-get($breakpoints, xxlarge)) {
+  .register-container {
+    max-width: 1300px;
+  }
+}
